@@ -22,7 +22,6 @@ html {
 
 body {
   margin: 0;
-  background-color: powderblue;
 }
 
 /**
@@ -41,6 +40,11 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
 }
 
 /* Grouping content
@@ -55,6 +59,7 @@ hr {
   box-sizing: content-box; /* 1 */
   height: 0; /* 1 */
   overflow: visible; /* 2 */
+
 }
 
 /**

@@ -54,6 +54,7 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 5%;
+
 }
 
 /*
@@ -290,7 +291,7 @@ textarea {
         orphans: 3;
         widows: 3;
     }
-
+    h1,
     h2,
     h3 {
         page-break-after: avoid;
